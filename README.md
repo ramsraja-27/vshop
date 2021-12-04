@@ -1,5 +1,6 @@
 ﻿# VSHOP eCommerce Platform
 <p>eCommerce platform built with the MERN stack & Redux.</p>
+<img src="uploads/2021-12-04.png" />
 <h3>Features</h3>
 <hr/>
 <ul>
