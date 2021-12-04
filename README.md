@@ -22,11 +22,9 @@
  <h3>Usage</h3>
  <hr/>
  <h4>ES Modules in Node</h4>
- <p>We use ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+ or you will need to add the "--experimental-modules" flag.
+ <p>We use ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+.
 
-Also, when importing a file (not a package), be sure to add .js at the end or you will get a "module not found" error
-
-You can also install and setup Babel if you would like</p>
+Also, when importing a file (not a package), be sure to add .js at the end or you will get a "module not found" error</p>
 <h4>Env Variables</h4>
 <p>Create a .env file in then root and add the following</p>
 NODE_ENV = development<br>
