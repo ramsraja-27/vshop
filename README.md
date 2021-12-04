@@ -27,11 +27,11 @@ Also, when importing a file (not a package), be sure to add .js at the end or yo
 You can also install and setup Babel if you would like</p>
 <h4>Env Variables</h4>
 <p>Create a .env file in then root and add the following</p>
-NODE_ENV = development
-PORT = 5000
-MONGO_URI = your mongodb uri
-JWT_SECRET = 'abc123'
-PAYPAL_CLIENT_ID = your paypal client id
+NODE_ENV = development<br>
+PORT = 5000<br>
+MONGO_URI = your mongodb uri<br>
+JWT_SECRET = 'abc123'<br>
+PAYPAL_CLIENT_ID = your paypal client id<br>
 <h4>Install Dependencies (frontend & backend)</h4>
 npm install
 cd frontend
@@ -40,10 +40,10 @@ npm install
 # Run frontend (:3000) & backend (:5000)
 npm run dev
 
-# Run backend only
+<h4> Run backend only</h4>
 npm run server
 <h4>Build and Deploy</h4>
-# Create frontend prod build
+<h4>Create frontend prod build</h4>
 cd frontend
 npm run build
 <hr/>
