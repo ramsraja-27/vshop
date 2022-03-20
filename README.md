@@ -54,3 +54,7 @@ admin@gmail.com (Admin)
 
 vijay@gmail.com (Customer)
 12345
+
+//Sample sandbox account
+sb-bjt6l14573185@personal.example.com
+12345678
